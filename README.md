@@ -1,0 +1,2 @@
+# Tree
+Implementasi Kruskal Algoritm
